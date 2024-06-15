@@ -1,4 +1,4 @@
-<a href="https://www.1hour.dev">
+<a href="https://www.1hour.dev" align="center">
   <img alt="1hour.dev" src="/public/logo.png">
   <h1 align="center">Audit website SEO tools</h1>
 </a>
