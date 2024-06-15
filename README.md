@@ -1,6 +1,8 @@
-<a href="https://www.1hour.dev" align="center">
-  <img align="center" alt="1hour.dev" src="/public/logo.png">
-  <h1 align="center">Audit website SEO tools</h1>
+<a href="https://www.1hour.dev">
+    <p align="center">
+        <img  alt="1hour.dev" src="/public/logo.png" width="150">
+        <h1 align="center">Audit website SEO tools</h1>
+    </p>
 </a>
 
 Hello everyone, I've recently started practicing **SEO** on my own website. Before, I had a few random posts, mainly written blindly without any keywords or proper descriptions rofl. Lately, I've been lurking and realized the need to do some **website audit work**, so I tried it on my page. Since keyword auditing is quite manual, I attempted to create a tool to minimize errors and speed up the process ⚡. I'm writing this repo to introduce it to those who have similar **auditing needs** and also to seek opinions for improvement.
@@ -69,7 +71,7 @@ You can check out - your feedback and contributions are welcome!
 
 ## Author
 
-- Steven Tey ([@huynguyen2015](https://twitter.com/dfgefgef11))
+- Huy Nguyễn ([@huynguyen2015](https://twitter.com/dfgefgef11))
 
 ## License
 
